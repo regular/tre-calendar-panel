@@ -1,0 +1,27 @@
+{
+  "name": "tre-calendar-panel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regular/tre-calendar-panel.git"
+  },
+  "keywords": [],
+  "author": "Jan Bölsche <jan@lagomorph.de> (https://regular.codes/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regular/tre-calendar-panel/issues"
+  },
+  "homepage": "https://github.com/regular/tre-calendar-panel#readme",
+  "dependencies": {
+    "mutant": "^3.22.1",
+    "pull-many": "^1.0.8",
+    "pull-stream": "^3.6.11",
+    "tre-calendar": "^1.2.0",
+    "tre-watch-collections": "^1.0.0"
+  }
+}
